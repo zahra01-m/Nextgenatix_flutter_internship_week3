@@ -42,7 +42,7 @@ lib/
 
 | Home Screen | Add Task | Edit Task |
 |---|---|---|
-| ![Home Screen](screenshots/homescreen.png) | ![Add Task](screenshots/Add_task.png) | ![Edit Task](screenshots/edit_task.png) |
+| ![Home Screen](screenshots/home_screen.png) | ![Add Task](screenshots/Add_task.png) | ![Edit Task](screenshots/edit_task.png) |
 
 | Delete Task | Completed Task |
 |---|---|
